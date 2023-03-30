@@ -36,7 +36,7 @@ type BotMessage struct {
 
 //точка входа программы
 func main() {
-	botToken := "6001015646:AAFeuuUNOGUXeom35BxylC6fDQ5AaC0Qlgs"
+	botToken := "your_tg_api_token"
 	botApi := "https://api.telegram.org/bot"
 	botUrl := botApi + botToken
 
