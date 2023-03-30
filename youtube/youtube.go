@@ -11,7 +11,7 @@ import (
 )
 
 const  YOTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
-const YOUTUBE_API_TOKEN = "AIzaSyCWsPZSOzIqvF_i4bxIQUaCU5ndfTMgFXA"
+const YOUTUBE_API_TOKEN = "your_token"
 const  YOUTUBE_VIDEO_URL = "https://www.youtube.com/watch?v="
 
 
